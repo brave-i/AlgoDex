@@ -1,0 +1,8 @@
+venv/
+.mypy_cache/
+__pycache__/
+contracts/__pycache__/
+settings.json
+.DS_Store
+*.code-workspace
+*.swp
